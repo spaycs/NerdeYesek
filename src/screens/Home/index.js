@@ -7,12 +7,12 @@ import { Search } from "../../res";
 const Home = ({ navigation }) => {
     const isDarkMode = useColorScheme() === "dark";
     const dataRestaurants = [
-      {
-        image: require("../../res/images/image/slider1.png"),
-      },
-      {
-        image: require("../../res/images/image/slider2.png"),
-      },
+    //  {
+   //     image: require("../../res/images/image/slider.png"),
+    //  },
+    //  {
+      //  image: require("../../res/images/image/slider.png"),
+     // },
     
     ];
 
